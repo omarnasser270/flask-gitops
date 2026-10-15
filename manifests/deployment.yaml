@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: flask-app
-          image: omarnasser777/flask-app:latest
+          image: omarnasser777/flask-app:c58740a9548adaa41b34457b15966b40a4db658c
           ports:
             - containerPort: 5000
